@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 40px;
+}
+h1{
+    font-weight: 900;
+    font-size: 30px;
+    
+}
+.nav-bar a{
+   text-decoration: none;
+    font-size: 25px;
+    padding: 10px;
+   
+}
+.nav-bar{
+    margin-left: 700px;
+    padding: 40px;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+   
+}
+.half-width img{
+    width: 80%;
+}
+.btn-link{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    border: 1px solid ;
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+section{
+    height: 600px;
+}
+.latest-area{
+    width: 25%;
+    float: left;
+    margin: 2%;
+   padding: 1%;
+   border: 1px solid white;
+   border-radius: 10px ;
+   box-shadow: 10px 10px  30px   gray;
+   
+    
+}
+.latest-area img{
+    width: 100%;
+   
+}
+.latest-section{
+  width: 100%;
+    background-color: whitesmoke;
+}
+.project-center{
+    position: relative;
+    top: 50px;
+    
+}
+.work-inquiry{
+    color: white;
+    float: left;
+    width: 70%;
+    padding: 50px;
+}
+.inquiry{
+    height: 200px;
+    width: 80%;
+    background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+    border-radius: 30px; 
+    position: relative;
+    top: 50px;
+    left: 120px;
+     
+}
+.chat-btn{
+    padding: 75px;
+   
+}
+.chat-color{
+    padding:15px 20px; 
+    border-radius: 15px;
+   background: linear-gradient(#FF8063,
+   #F46060);
+}
+.connect-area{
+    width: 400px;
+    text-align: center;
+    position: relative;
+    bottom: 200px;
+    left: 470px;   
+    height: 200px;
+}
+.connect-img{
+    width: 10%;
+    float: left;
+    padding: 10px;
+    
+}
+.connect-img img{
+    width: 100%;
+}
+
+.connect-area img{
+    position: relative;
+    left: 100px;
+   
+}
